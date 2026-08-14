@@ -1,1 +1,1 @@
-# Readme
+# simple-interest-calculator
